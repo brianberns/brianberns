@@ -1,2 +1,2 @@
 # Functional programming!
-F# and (if I have to) C#.
+F# and (if I have to) Python.
